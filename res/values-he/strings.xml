@@ -2,7 +2,7 @@
 <resources>
 	<string name="titleExpensesList">רשימת הוצאות</string>
 	<string name="hello">Hello World, mainActivity!</string>
-	<string name="app_name">מחשבון טיולים</string>
+	<string name="app_name">מחשבון הוצאות</string>
 	<string name="restaurant">מסעדה</string>
 	<string name="add_expense">הוסף הוצאה</string>
 	<string name="total">סך הכל</string>

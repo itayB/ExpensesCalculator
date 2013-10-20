@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="titleExpensesList">רשימת הוצאות</string>
+	<string name="hello">Hello World, mainActivity!</string>
+	<string name="app_name">מחשבון טיולים</string>
+	<string name="restaurant">מסעדה</string>
+	<string name="add_expense">הוסף הוצאה</string>
+	<string name="total">סך הכל</string>
+	<string name="colon">:</string>
+	<string name="total_value"></string>
+	<string name="prefs">הגדרות</string>
+	<string name="exit">יציאה</string>
+	<string name="add">הוסף</string>
+	<string name="edit">ערוך</string>
+	<string name="delete">מחק</string>
+	<string name="description_hint">Expense description</string>
+	<string name="price_hint">Price</string>
+	<string name="date_hint">Date</string>
+	<string name="save">Save</string>
+	<string name="cancel">Cancel</string>
+	<string name="errorMsgDescription">Description is missing</string>
+	<string name="errorMsgPrice">Price is missing</string>
+	<string name="changeCurrency">Change currency</string>
+	<string name="nis_mark">₪</string>
+	<string name="about">About</string>
+	<string name="titlePreferences">הגדרות</string>
+</resources>

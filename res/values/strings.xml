@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Trip Calculator</string>
+	<string name="titleExpensesList">Expenses List</string>
+	<string name="restaurant">מסעדה</string>
+	<string name="add_expense">הוסף הוצאה</string>
+	<string name="total">סך הכל</string>
+	<string name="colon">:</string>
+	<string name="total_value"></string>
+	<string name="prefs">Prefrences</string>
+	<string name="exit">Exit</string>
+	<string name="add">Add</string>
+	<string name="edit">Edit</string>
+	<string name="delete">Delete</string>
+	<string name="description_hint">Expense description</string>
+	<string name="price_hint">Price</string>
+	<string name="date_hint">Date</string>
+	<string name="save">Save</string>
+	<string name="cancel">Cancel</string>
+	<string name="errorMsgDescription">Description is missing</string>
+	<string name="errorMsgPrice">Price is missing</string>
+	<string name="changeCurrency">Change currency</string>
+	<string name="nis_mark">₪</string>
+	<string name="about">About</string>
+	<string name="titlePreferences">Preferences</string>
+</resources>

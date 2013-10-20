@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_height="wrap_content" android:layout_width="fill_parent">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textIndex" android:text="Index" android:visibility="gone"></TextView>
+    <TextView android:layout_height="wrap_content" android:text="Italian Resturant" android:layout_width="fill_parent" android:id="@+id/textText" style="@style/rowText" android:textStyle="bold"></TextView>
+    <LinearLayout android:layout_height="wrap_content" android:id="@+id/linearLayout1" android:layout_width="match_parent">
+        <TextView android:text="27/09/2011" android:layout_height="wrap_content" android:id="@+id/textDate" android:layout_width="fill_parent" android:layout_weight="1" android:paddingLeft="10dp"></TextView>
+        <TextView android:layout_height="wrap_content" android:id="@+id/textPrice" style="@style/rowText" android:textSize="13dp" android:layout_width="wrap_content" android:layout_weight="0" android:text="100"></TextView>
+        <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="$" android:id="@+id/textCurrency" android:layout_weight="0" android:paddingRight="5dp"></TextView>
+    </LinearLayout>
+    
+</LinearLayout>

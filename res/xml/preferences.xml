@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/titlePreferences" >
+
+    <ListPreference
+        android:key="defaultCurrency"
+        android:selectable="true"
+        android:title="Change total currency" >
+    </ListPreference>
+    <ListPreference
+        android:entries="@array/select_language_items"
+        android:entryValues="@array/select_language_values"
+        android:key="defaultLanguage"
+        android:title="Change language" android:defaultValue="en">
+    </ListPreference>
+
+</PreferenceScreen>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+    <EditText android:layout_height="wrap_content" android:hint="@string/description_hint" android:id="@+id/editTextDescription" android:layout_weight="1" android:layout_width="fill_parent">
+        <requestFocus></requestFocus>
+    </EditText>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/linearLayout2">
+        <EditText android:id="@+id/editTextPrice" android:inputType="numberDecimal" android:hint="@string/price_hint" android:layout_weight="1" android:layout_width="fill_parent" android:layout_height="wrap_content"></EditText>
+        <TextView android:layout_height="wrap_content" android:text="$" android:layout_width="fill_parent" android:layout_weight="1" android:textSize="30dp" android:id="@+id/textCurrency"></TextView>
+        <Button android:background="#000" android:textColor="#FFF" android:text="@string/changeCurrency" android:layout_height="fill_parent" android:layout_marginRight="5dp" android:layout_width="126dp" android:id="@+id/buttonChangeCurrency"></Button>
+    </LinearLayout>
+    <EditText android:layout_height="wrap_content" android:layout_width="match_parent" android:inputType="date" android:hint="@string/date_hint" android:id="@+id/editTextDate"></EditText>
+    <LinearLayout android:layout_height="wrap_content" android:id="@+id/linearLayout1" android:layout_width="match_parent" android:background="#C0C0C0" android:paddingTop="4dp">
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/buttonSave" android:text="@string/save" android:layout_weight="1"></Button>
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/buttonCancel" android:text="@string/cancel" android:layout_weight="1"></Button>
+    </LinearLayout>
+    
+</LinearLayout>

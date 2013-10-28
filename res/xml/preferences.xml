@@ -5,13 +5,13 @@
     <ListPreference
         android:key="defaultCurrency"
         android:selectable="true"
-        android:title="Change total currency" >
+        android:title="@string/change_total_currency" >
     </ListPreference>
     <ListPreference
         android:entries="@array/select_language_items"
         android:entryValues="@array/select_language_values"
         android:key="defaultLanguage"
-        android:title="Change language" android:defaultValue="en">
+        android:title="@string/change_language" android:defaultValue="en">
     </ListPreference>
 
 </PreferenceScreen>

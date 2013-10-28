@@ -9,9 +9,9 @@
         <item>iw</item>
     </string-array>     
     <string-array name="select_dialog_items">
-        <item>NIS (New Israeli Shekel)</item>
-        <item>USD (U.S. Dollar)</item>
-        <item>EURO</item>
+        <item>שקל</item>
+        <item>דולר</item>
+        <item>אירו</item>
     </string-array>    
     <string-array name="currency_marks">
         <item>₪</item>

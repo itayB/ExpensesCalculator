@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="titleExpensesList">Expenses List</string>
 	<string name="app_name">Expenses Calculator</string>
-	<string name="titleExpensesList">Expenses List</string>
-	<string name="restaurant">מסעדה</string>
-	<string name="add_expense">הוסף הוצאה</string>
-	<string name="total">סך הכל</string>
+	<string name="restaurant">Restaurant</string>
+	<string name="add_expense">Add expense</string>
+	<string name="total">Total</string>
 	<string name="colon">:</string>
 	<string name="total_value"></string>
 	<string name="prefs">Prefrences</string>
@@ -23,4 +23,6 @@
 	<string name="nis_mark">₪</string>
 	<string name="about">About</string>
 	<string name="titlePreferences">Preferences</string>
+	<string name="change_total_currency">Change total currency</string>
+	<string name="change_language">Change language</string>
 </resources>

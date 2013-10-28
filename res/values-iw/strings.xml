@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="titleExpensesList">רשימת הוצאות</string>
-	<string name="hello">Hello World, mainActivity!</string>
 	<string name="app_name">מחשבון הוצאות</string>
 	<string name="restaurant">מסעדה</string>
 	<string name="add_expense">הוסף הוצאה</string>
@@ -13,15 +12,17 @@
 	<string name="add">הוסף</string>
 	<string name="edit">ערוך</string>
 	<string name="delete">מחק</string>
-	<string name="description_hint">Expense description</string>
-	<string name="price_hint">Price</string>
-	<string name="date_hint">Date</string>
-	<string name="save">Save</string>
-	<string name="cancel">Cancel</string>
-	<string name="errorMsgDescription">Description is missing</string>
-	<string name="errorMsgPrice">Price is missing</string>
-	<string name="changeCurrency">Change currency</string>
+	<string name="description_hint">תאור הוצאה</string>
+	<string name="price_hint">מחיר</string>
+	<string name="date_hint">תאריך</string>
+	<string name="save">שמור</string>
+	<string name="cancel">ביטול</string>
+	<string name="errorMsgDescription">חסר תאור הוצאה</string>
+	<string name="errorMsgPrice">חסר מחיר</string>
+	<string name="changeCurrency">שנה מטבע</string>
 	<string name="nis_mark">₪</string>
-	<string name="about">About</string>
+	<string name="about">אודות</string>
 	<string name="titlePreferences">הגדרות</string>
+	<string name="change_total_currency">שנה מטבע</string>
+	<string name="change_language">החלף שפה</string>
 </resources>

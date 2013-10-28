@@ -53,9 +53,11 @@ public final class R {
         public static final int about=0x7f060015;
         public static final int add=0x7f060009;
         public static final int add_expense=0x7f060003;
-        public static final int app_name=0x7f060000;
+        public static final int app_name=0x7f060001;
         public static final int cancel=0x7f060010;
         public static final int changeCurrency=0x7f060013;
+        public static final int change_language=0x7f060018;
+        public static final int change_total_currency=0x7f060017;
         public static final int colon=0x7f060005;
         public static final int date_hint=0x7f06000e;
         public static final int delete=0x7f06000b;
@@ -64,13 +66,12 @@ public final class R {
         public static final int errorMsgDescription=0x7f060011;
         public static final int errorMsgPrice=0x7f060012;
         public static final int exit=0x7f060008;
-        public static final int hello=0x7f060017;
         public static final int nis_mark=0x7f060014;
         public static final int prefs=0x7f060007;
         public static final int price_hint=0x7f06000d;
         public static final int restaurant=0x7f060002;
         public static final int save=0x7f06000f;
-        public static final int titleExpensesList=0x7f060001;
+        public static final int titleExpensesList=0x7f060000;
         public static final int titlePreferences=0x7f060016;
         public static final int total=0x7f060004;
         public static final int total_value=0x7f060006;
